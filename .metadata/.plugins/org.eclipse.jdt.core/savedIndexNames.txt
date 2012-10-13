@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/daniel/workspace/android/call_assist/.metadata/.plugins/org.eclipse.jdt.core
+3944700842.index
+2215118532.index
+1559900501.index
